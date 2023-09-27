@@ -2,8 +2,8 @@ PRIMER PARCIAL
 
 1.  Explique de forma breve en que consiste el pasaje de parametros por valor a una subrutina.
         
-        //El pasaje por parametros por valor consiste en pasar el valor directamente a la subrutina, es decir, 
-        //se pasa el valor de la variable y no la direccion de memoria de la misma.
+        //El pasaje de parametros por valor consiste en pasar el valor directamente a la subrutina, es decir, 
+        //se pasa el valor de la variable y no la direccion de memoria de la misma. (una copia)
 
 2.  Indique que interrupocion del PIC estan conectadas con la tecla F10 y el HandShake en el simulador MSX88?
 
