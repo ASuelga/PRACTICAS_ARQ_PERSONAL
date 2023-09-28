@@ -26,3 +26,10 @@ q diferencia hay entre el iret y ret?
 
 
 
+asumiendo que AX 3000h BX 1000h y CX 20000h en que queda si ejecuto 
+push ax 
+pop cx
+push bx
+pop ax
+
+AX=   BX=   CX=   
