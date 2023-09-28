@@ -11,6 +11,11 @@ SUB AX, BX
 INT 0
 END
 
+push AX
+push BX
+pop AX
+pop BX
+
 si en el pic del msx88 el registro IMR= CBH q se indica?
 
 
